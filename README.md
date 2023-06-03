@@ -1,4 +1,4 @@
-### About 👋 Divyansh Srivastav
+### About 👋 Divyansh Srivastava
 Co-Founder @SanelyWritten
 
  # My Skills
