@@ -4,12 +4,12 @@ Co-Founder @SanelyWritten
  # My Skills
  - Python
  - C++
+ - Exoplanets
  - Machine Learning
  - Octave
  - SQL
  - Java
  - Data Structures and Algorithms
- - Astrophysics & Cosmology
 
 
 [![Divyansh Srivastav github stats](https://github-readme-stats.vercel.app/api?username=prashant050701)](https://github.com/prashant050701/github-readme-stats)
