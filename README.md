@@ -1,7 +1,6 @@
-### About 👋 Divyansh Srivastava
+###Divyansh Srivastava
 Co-Founder @SanelyWritten
 
- # My Skills
  - Python
  - C++
  - Exoplanets
