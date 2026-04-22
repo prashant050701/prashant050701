@@ -1,8 +1,9 @@
 ### Divyansh Srivastava
 Co-Founder @SanelyWritten
 
- - Python
+ - C
  - C++
+ - Python
  - Exoplanets
  - Machine Learning
  - Octave
